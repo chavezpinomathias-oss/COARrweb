@@ -1,0 +1,23 @@
+{
+  "name": "COARweb PRO",
+  "short_name": "COAR PRO",
+  "description": "Herramientas avanzadas para estudiantes COAR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#096085",
+  "theme_color": "#A9A077",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
